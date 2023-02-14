@@ -67,3 +67,21 @@ body{
     gap: 1em;
     font-size: 12vmin;
 }
+
+#restart{
+    font-size: 0.6em;
+    padding: 0.5em 1em;
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 0.2em;
+}
+
+#message{
+    color: #ffffff;
+    text-align: center;
+    font-size: 1em;
+}
+
+.popup.hide{
+    display: none;
+}
